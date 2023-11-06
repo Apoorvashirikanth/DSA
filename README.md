@@ -1,2 +1,2 @@
 # DSA
-a repository containing all dsa sequences for my future reference 
+A repository containing all dsa sequences for my(and for your) future reference 
