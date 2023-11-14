@@ -26,6 +26,7 @@ function inserstionSort(arr){
 //     }
 // }
 
-let arr = [-6, 20, 8, -2, 4];
+// let arr = [-6, 20, 8, -2, 4];
+let arr = [100, -6, 20, 8, -2, 4];
 inserstionSort(arr);
 console.log(arr);
