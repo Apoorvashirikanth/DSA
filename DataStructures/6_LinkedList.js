@@ -29,6 +29,7 @@ class Node {
       }
       this.size++;
     }
+    //prepend O(1)
   
     append(value) {
       const node = new Node(value);
@@ -43,6 +44,7 @@ class Node {
       }
       this.size++;
     }
+    //append O(n) can be O(1) by using tail pointer 
   
     insert(value, index) {
       if (index < 0 || index > this.size) {
