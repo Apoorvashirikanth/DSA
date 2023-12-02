@@ -30,3 +30,5 @@ function inserstionSort(arr){
 let arr = [100, -6, 20, 8, -2, 4];
 inserstionSort(arr);
 console.log(arr);
+
+//big O = O(n^2)
